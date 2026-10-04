@@ -1,0 +1,1 @@
+{"$schema":"https://openapi.vercel.sh/vercel.json","buildCommand":"node scripts/build.js","functions":{"api/checkout.js":{"includeFiles":"data/**"}},"outputDirectory":"dist"}
